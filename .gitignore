@@ -1,0 +1,20 @@
+# Ignore data files
+data/
+datasets/
+*.csv
+*.parquet
+*.xlsx
+*.json
+
+# Ignore model files
+models/
+*.pkl
+*.joblib
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+
+scania_rul_env/
