@@ -1,4 +1,8 @@
 SightX — Predictive Truck Failure System Using Survival Analysis
+---
+
+Some description or content here.
+
 Project Overview
 
 SightX is a predictive maintenance system designed to estimate truck failure risk and remaining operational life using survival analysis techniques.
