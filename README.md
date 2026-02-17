@@ -73,7 +73,7 @@ Streamlit
 Project Structure
 scania_rul_survival/
 │
-├── data/                # Raw and processed datasets
+├── data/                
 ├── notebooks/
 │   ├── 01_data_preparation.ipynb
 │   ├── 02_survival_modeling.ipynb
@@ -83,7 +83,7 @@ scania_rul_survival/
 │
 ├── models/              # Saved models
 ├── results/             # Visualizations and outputs
-├── app.py               # Streamlit application (optional)
+├── app.py             
 └── README.md
 
 Key Contributions
