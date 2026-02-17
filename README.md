@@ -70,10 +70,12 @@ Matplotlib, Seaborn
 Joblib
 Streamlit 
 
-Project Structure
+## Project Structure
+
+```
 scania_rul_survival/
 │
-├── data/                
+├── data/
 ├── notebooks/
 │   ├── 01_data_preparation.ipynb
 │   ├── 02_survival_modeling.ipynb
@@ -81,10 +83,12 @@ scania_rul_survival/
 │   ├── 04_model_explainability.ipynb
 │   └── 05_cost_analysis.ipynb
 │
-├── models/              # Saved models
-├── results/             # Visualizations and outputs
-├── app.py             
+├── models/        
+├── results/       
+├── app.py
 └── README.md
+```
+
 
 Key Contributions
 
