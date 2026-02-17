@@ -37,6 +37,7 @@ Event: Whether a failure occurred
 Model performance was evaluated using the Concordance Index (C-index) to measure predictive accuracy.
 
 3. Risk Prediction
+   
 Survival probabilities were computed at a future time horizon of 50 operational cycles to answer the question:
 “Will the truck survive the next 50 cycles?”
 Based on these probabilities, trucks were categorized into risk groups
